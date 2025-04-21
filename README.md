@@ -1,4 +1,13 @@
-## Hi there 👋
+## About me
+
+Hello there!!! My name is Josue Guevara Molina
+
+I am a Data Analytics student at Queens University of Charlotte. In the summer of 2025, I will commence my internship to put my skills at work and to learn what it is like to work in corperate america. I want to continue to develop my skills as a data analyist and to be able to work at a company that continously helps me to grow!
+
+I love to play and watch soccer, FC Barcelona is the team I support!!! VISCA BARCA!!! I also love to listen to music and casual play video games. My favorite genre for music is rock and for video games are RPG.
+
+To reach me feel free to email me: 8650359@gmail.com
+Pronouns: He/Him/Hims
 
 <!--
 **BotchedPleb/BotchedPleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
